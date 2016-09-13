@@ -1,0 +1,12 @@
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Service\bin\Debug\WinFrm.Framework.Service.dll
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Service\bin\Debug\WinFrm.Framework.Service.pdb
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Service\bin\Debug\WinFrm.Framework.Models.dll
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Service\bin\Debug\WinFrm.Framework.Repository.dll
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Service\bin\Debug\EntityFramework.dll
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Service\bin\Debug\WinFrm.Framework.Models.pdb
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Service\bin\Debug\WinFrm.Framework.Repository.pdb
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Service\bin\Debug\EntityFramework.xml
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Service\obj\Debug\WinFrm.Framework.Service.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Service\obj\Debug\WinFrm.Framework.Service.dll
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Service\obj\Debug\WinFrm.Framework.Service.pdb
+d:\Documents\Visual Studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Service\bin\Debug\WinFrm.Framework.Service.dll.config

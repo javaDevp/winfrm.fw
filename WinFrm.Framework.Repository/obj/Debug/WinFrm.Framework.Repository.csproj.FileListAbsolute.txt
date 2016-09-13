@@ -1,0 +1,12 @@
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Repository\bin\Debug\WinFrm.Framework.Repository.dll.config
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Repository\bin\Debug\WinFrm.Framework.Repository.dll
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Repository\bin\Debug\WinFrm.Framework.Repository.pdb
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Repository\bin\Debug\EntityFramework.dll
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Repository\bin\Debug\WinFrm.Framework.Models.dll
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Repository\bin\Debug\WinFrm.Framework.Models.pdb
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Repository\bin\Debug\EntityFramework.xml
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Repository\obj\Debug\WinFrm.Framework.Repository.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Repository\obj\Debug\WinFrm.Framework.Repository.dll
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Repository\obj\Debug\WinFrm.Framework.Repository.pdb
+d:\Documents\Visual Studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Repository\bin\Debug\EntityFramework.SqlServer.dll
+d:\Documents\Visual Studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Repository\bin\Debug\EntityFramework.SqlServer.xml

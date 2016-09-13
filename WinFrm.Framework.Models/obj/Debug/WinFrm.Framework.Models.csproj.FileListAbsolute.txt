@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Models\bin\Debug\WinFrm.Framework.Models.dll.config
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Models\bin\Debug\WinFrm.Framework.Models.dll
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Models\bin\Debug\WinFrm.Framework.Models.pdb
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Models\obj\Debug\WinFrm.Framework.Models.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Models\obj\Debug\WinFrm.Framework.Models.dll
+d:\documents\visual studio 2015\Projects\WinFrm.Framework\WinFrm.Framework.Models\obj\Debug\WinFrm.Framework.Models.pdb
